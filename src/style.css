@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 body {
-  display: flex;
+  width: 100vw;
+  height: 100vh;
   font-size: 0;
   background-color: rgba(253, 219, 33, 1);
 }
